@@ -3,7 +3,7 @@ const GitHubButton = (props) => {
   var link = props.url;
 
   if (props.type === 'Repository') {
-    link = 'https://github.com/jackoubridge/' + props.url;
+    link = 'https://github.com/jack-oub/' + props.url;
   }
 
   return (

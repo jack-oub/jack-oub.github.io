@@ -17,7 +17,7 @@ const Hero = forwardRef(({ scrollToProjects }, ref) => {
           </div>
           <div className='hero-buttons-container d-flex justify-content-center w-100'>
             <a href="https://linkedin.com/in/jackoubridge" target='_blank' rel='noreferrer' className="rounded btn btn-dark me-2 hero-button text-dark d-flex"><span className="my-auto">LinkedIn</span><span className="icon fa-brands fa-linkedin p-0 me-1 my-auto"></span></a>
-            <a href="https://github.com/jackoubridge" target='_blank' rel='noreferrer' className="rounded btn btn-dark me-2 hero-button text-dark d-flex"><span className="my-auto">GitHub</span><span className="icon fa-brands fa-github p-0 my-auto"></span></a>
+            <a href="https://github.com/jack-oub" target='_blank' rel='noreferrer' className="rounded btn btn-dark me-2 hero-button text-dark d-flex"><span className="my-auto">GitHub</span><span className="icon fa-brands fa-github p-0 my-auto"></span></a>
           </div>
 
         </div>
