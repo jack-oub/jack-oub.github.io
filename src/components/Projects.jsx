@@ -58,7 +58,7 @@ const Projects = forwardRef((props, ref) => {
           <Project
             title='Portfolio React App'
             type="Repository"
-            url='jackoubridge.github.io'
+            url='jack-oub.github.io'
             color='FireBrick'
             langs='JavaScript, ReactJS'
             imgLink='12630/12630918'
